@@ -6,3 +6,4 @@ export interface User {
 }
 
 const meme = 'algo';
+const meme2 = 'algo2';
